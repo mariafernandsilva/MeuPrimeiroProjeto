@@ -54,6 +54,7 @@ main {
 main img {
     max-width: 100%;
     border-radius: 8px;
+    justify-content: center;
 }
 
 /* Estilo para a lista de conteúdos */
@@ -66,7 +67,7 @@ footer {
     padding: 10px;
     background-color: #333;
     color: white;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
 }
